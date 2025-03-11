@@ -67,7 +67,7 @@ $ cast --help
 
 ---
 
-## Chapter: `MerkleAirdrop` Contract Explanation
+## `MerkleAirdrop` Contract Explanation
 
 This Solidity contract, `MerkleAirdrop`, is designed to facilitate a token airdrop based on a Merkle Tree. It utilizes several features from OpenZeppelin libraries, including `SafeERC20` for safe token transfers and `MerkleProof` for verifying proof of claims.
 
